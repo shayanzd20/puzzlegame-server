@@ -1,0 +1,836 @@
+[06-Apr-2017 08:49:19 UTC] PHP Warning:  require_once(/../../config/Terminal.x): failed to open stream: No such file or directory in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 6
+[06-Apr-2017 08:49:19 UTC] PHP Fatal error:  require_once(): Failed opening required '/../../config/Terminal.x' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 6
+[06-Apr-2017 08:49:22 UTC] PHP Warning:  require_once(/../../config/Terminal.x): failed to open stream: No such file or directory in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 6
+[06-Apr-2017 08:49:22 UTC] PHP Fatal error:  require_once(): Failed opening required '/../../config/Terminal.x' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 6
+[06-Apr-2017 08:49:26 UTC] PHP Warning:  require_once(/../../config/Terminal.x): failed to open stream: No such file or directory in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 6
+[06-Apr-2017 08:49:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/../../config/Terminal.x' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 6
+[06-Apr-2017 08:49:28 UTC] PHP Warning:  require_once(/../../config/Terminal.x): failed to open stream: No such file or directory in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 6
+[06-Apr-2017 08:49:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/../../config/Terminal.x' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 6
+[06-Apr-2017 08:49:50 UTC] PHP Warning:  require_once(/../../config/Terminal.x): failed to open stream: No such file or directory in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 9
+[06-Apr-2017 08:49:50 UTC] PHP Fatal error:  require_once(): Failed opening required '/../../config/Terminal.x' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 9
+[06-Apr-2017 08:50:08 UTC] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 16
+[06-Apr-2017 08:52:23 UTC] PHP Notice:  Undefined variable: from in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 33
+[06-Apr-2017 08:52:23 UTC] PHP Notice:  Trying to get property of non-object in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 33
+[06-Apr-2017 08:52:23 UTC] PHP Fatal error:  Using $this when not in object context in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 33
+[06-Apr-2017 18:12:01 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[06-Apr-2017 18:12:01 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[06-Apr-2017 18:44:50 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[06-Apr-2017 18:44:50 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[06-Apr-2017 18:48:11 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[06-Apr-2017 18:48:11 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[06-Apr-2017 18:48:22 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[06-Apr-2017 18:48:22 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[06-Apr-2017 18:49:08 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[06-Apr-2017 18:49:08 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 09:40:19 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 09:40:19 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 09:42:04 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 09:42:04 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 09:52:40 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 09:52:40 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 11:27:05 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 11:27:05 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 11:27:06 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 11:27:06 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 11:28:42 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 11:28:42 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 11:35:30 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 11:35:30 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 13:23:05 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 13:23:05 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 13:58:15 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 13:58:15 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 14:01:03 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 14:01:03 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 14:03:48 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 14:03:48 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 14:06:54 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 14:06:54 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 14:23:20 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 14:23:20 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 14:29:57 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 14:29:57 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 14:33:02 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 14:33:02 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 14:35:52 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 14:35:52 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 14:37:29 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 14:37:29 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 14:38:59 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 14:38:59 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 14:40:31 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 14:40:31 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 14:42:07 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 14:42:07 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 14:45:14 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 14:45:14 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 14:46:48 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 14:46:48 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 14:50:01 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 14:50:01 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 14:50:01 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 14:50:01 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:39:18 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:39:18 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:39:31 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:39:31 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:39:31 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:39:31 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:39:50 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:39:50 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:40:02 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:40:02 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:42:44 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:42:44 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:44:42 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:44:42 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:44:52 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:44:52 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:45:04 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:45:04 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:45:04 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:45:04 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:45:30 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:45:30 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:45:57 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:45:57 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:45:57 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:45:57 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:46:01 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:46:01 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:46:01 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:46:01 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:46:06 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:46:06 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:47:05 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:47:05 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:49:01 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:49:01 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:49:13 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:49:13 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:50:02 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:50:02 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:50:02 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:50:02 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:51:36 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:51:36 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:51:58 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:51:58 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:52:12 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:52:12 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:54:24 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:54:24 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:54:24 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:54:24 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[07-Apr-2017 19:55:36 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[07-Apr-2017 19:55:36 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 06:27:27 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 06:27:27 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 06:29:14 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 06:29:14 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:19:16 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:19:16 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:22:44 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:22:44 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:22:46 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:22:46 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:22:48 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:22:48 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:22:50 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:22:50 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:23:18 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:23:18 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:23:23 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:23:23 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:28:06 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:28:06 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:28:16 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:28:16 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:44:26 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:44:26 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:44:53 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:44:53 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:44:55 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:44:55 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:44:58 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:44:58 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:45:00 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:45:00 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:45:41 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:45:41 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:46:16 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:46:16 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:46:18 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:46:18 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:46:20 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:46:20 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:46:22 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:46:22 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:46:51 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:46:51 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:46:54 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:46:54 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:47:10 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:47:10 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:47:26 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:47:26 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:47:28 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:47:28 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:47:50 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:47:50 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:47:52 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:47:52 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:47:54 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:47:54 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:48:07 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:48:07 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:48:15 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:48:15 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:48:17 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:48:17 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:48:17 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:48:17 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:48:19 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:48:19 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:48:31 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:48:31 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:49:41 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:49:41 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:49:43 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:49:43 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:50:44 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:50:44 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:51:06 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:51:06 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:51:18 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:51:18 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:51:20 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:51:20 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:51:24 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:51:24 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:51:34 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:51:34 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:52:20 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:52:20 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:52:30 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:52:30 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:52:32 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:52:32 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:52:56 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:52:56 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:52:58 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:52:58 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:14 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:14 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:16 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:16 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:18 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:18 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:20 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:20 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:28 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:28 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:29 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:29 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:30 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:30 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:31 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:31 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:32 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:32 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:33 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:33 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:44 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:44 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:44 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:44 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:47 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:47 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:47 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:47 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:49 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:49 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:49 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:49 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:51 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:51 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:51 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:51 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:53 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:53 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:53 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:53 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:55 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:55 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:54:59 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:54:59 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:55:01 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:55:01 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:55:01 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:55:01 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:55:03 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:55:03 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:55:06 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:55:06 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:55:08 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:55:08 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:55:09 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:55:09 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 07:55:11 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 07:55:11 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 08:25:01 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 08:25:01 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 08:25:29 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 08:25:29 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 08:25:31 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 08:25:31 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
+[08-Apr-2017 08:25:33 UTC] PHP Notice:  Undefined index: token in /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php on line 15
+[08-Apr-2017 08:25:33 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php:79
+Stack trace:
+#0 /home/balootmobile/public_html/vendor/cboden/ratchet/src/api/internal/createRoomStatus.php(18): Firebase\JWT\JWT::decode(NULL, 'smootikey_v_1', Array)
+#1 {main}
+  thrown in /home/balootmobile/public_html/vendor/cboden/ratchet/src/vendor/firebase/php-jwt/src/JWT.php on line 79
